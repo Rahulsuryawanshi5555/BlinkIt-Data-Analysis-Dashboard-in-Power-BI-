@@ -50,7 +50,7 @@ This project presents a **comprehensive sales dashboard** for **Blinkit**, India
   - **Tier 3 cities** contribute the most to sales (**$0.31M**).  
   - **Grocery Stores & Supermarkets** play a significant role in total revenue.  
 ## 📸 Dashboard Preview  
-![BlinkIt Sales Dashboard]
+![BlinkIt Sales Dashboard] https://github.com/Rahulsuryawanshi5555/BlinkIt-Data-Analysis-Dashboard-in-Power-BI-/blob/main/Dahsboard.jpg
 
 ## 🚀 Future Enhancements  
 - **Real-time Data Integration** for live tracking.  
